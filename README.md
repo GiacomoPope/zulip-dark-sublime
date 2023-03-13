@@ -6,7 +6,7 @@
 
 ## Install
 
-1.  Download using the [GitHub .zip download](https://github.com/jack4818/zulip-dark-sublime/blob/2a1489b1f3640d1e1b9c992c1d8b8048396bae55/Zulip-Dark.zip) option
+1.  Download using the [GitHub .zip download](https://github.com/jack4818/zulip-dark-sublime/blob/6006fb053e9b00f2e3f12b1065277a23c658f18e/Zulip-Dark.zip) option
 2.  Unzip the files and rename the folder to `Zulip-Dark`
 3.  Find your `Packages` directory using the menu item `Settings -> Browse Packages...`
 4.  Copy the folder into your Sublime Text `Packages` directory
